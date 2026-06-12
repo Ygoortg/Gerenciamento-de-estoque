@@ -21,7 +21,7 @@ public class Principal {
                                 "2 - Pesquisar Produto\n" +
                                 "3 - Atualizar Nome\n" +
                                 "4 - Atualizar Preço\n" +
-                                "5 - Remover modelo.Produto\n" +
+                                "5 - Remover Produto\n" +
                                 "6 - Listar Produtos\n" +
                                 "0 - Sair";
                 opcao = Integer.parseInt(
